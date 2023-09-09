@@ -13,7 +13,7 @@
 from resume_parser import ResumeParser
 
 parser = ResumeParser()
-pdf_file = '/home/deepctrl/test/resume/【CV算法工程师 _ 北京25-45K】孙艾霞 3年.pdf'
+pdf_file = '/home/deepctrl/test/resume/xxxxxx.pdf'
 
 resume = parser.parse(pdf_file)
 ```
